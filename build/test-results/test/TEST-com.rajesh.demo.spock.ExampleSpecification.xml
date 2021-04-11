@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.rajesh.demo.spock.ExampleSpecification" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-11T21:00:47" hostname="JESH-PC" time="0.119">
+<testsuite name="com.rajesh.demo.spock.ExampleSpecification" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-04-11T21:34:47" hostname="JESH-PC" time="0.123">
   <properties/>
-  <testcase name="Simple Assertion" classname="com.rajesh.demo.spock.ExampleSpecification" time="0.119"/>
+  <testcase name="Simple Assertion" classname="com.rajesh.demo.spock.ExampleSpecification" time="0.12"/>
+  <testcase name="given-when-then testing" classname="com.rajesh.demo.spock.ExampleSpecification" time="0.002"/>
+  <testcase name="given-when-then testing version 2" classname="com.rajesh.demo.spock.ExampleSpecification" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
