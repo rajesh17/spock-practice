@@ -1,9 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.rajesh.demo.spock.ExampleSpecification" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-04-11T21:34:47" hostname="JESH-PC" time="0.123">
+<testsuite name="com.rajesh.demo.spock.ExampleSpecification" tests="24" skipped="0" failures="0" errors="0" timestamp="2021-04-11T23:26:44" hostname="JESH-PC" time="0.277">
   <properties/>
-  <testcase name="Simple Assertion" classname="com.rajesh.demo.spock.ExampleSpecification" time="0.12"/>
-  <testcase name="given-when-then testing" classname="com.rajesh.demo.spock.ExampleSpecification" time="0.002"/>
-  <testcase name="given-when-then testing version 2" classname="com.rajesh.demo.spock.ExampleSpecification" time="0.001"/>
+  <testcase name="Simple Assertion" classname="com.rajesh.demo.spock.ExampleSpecification" time="0.007"/>
+  <testcase name="given-when-then testing" classname="com.rajesh.demo.spock.ExampleSpecification" time="0.001"/>
+  <testcase name="given-when-then testing version 2" classname="com.rajesh.demo.spock.ExampleSpecification" time="0.0"/>
+  <testcase name="given-when-then testing version 3" classname="com.rajesh.demo.spock.ExampleSpecification" time="0.0"/>
+  <testcase name="expect Exceptions" classname="com.rajesh.demo.spock.ExampleSpecification" time="0.01"/>
+  <testcase name="expect Exceptions for invalid inputs: -1" classname="com.rajesh.demo.spock.ExampleSpecification" time="0.001"/>
+  <testcase name="expect Exceptions for invalid inputs: 0" classname="com.rajesh.demo.spock.ExampleSpecification" time="0.0"/>
+  <testcase name="expect Exceptions for invalid inputs: 1" classname="com.rajesh.demo.spock.ExampleSpecification" time="0.001"/>
+  <testcase name="expect Exceptions for invalid inputs: 2" classname="com.rajesh.demo.spock.ExampleSpecification" time="0.0"/>
+  <testcase name="expect Exceptions for invalid inputs: #sides" classname="com.rajesh.demo.spock.ExampleSpecification" time="0.012"/>
+  <testcase name="create polygon for inputs: 5" classname="com.rajesh.demo.spock.ExampleSpecification" time="0.0"/>
+  <testcase name="create polygon for inputs: 6" classname="com.rajesh.demo.spock.ExampleSpecification" time="0.0"/>
+  <testcase name="create polygon for inputs: 7" classname="com.rajesh.demo.spock.ExampleSpecification" time="0.0"/>
+  <testcase name="create polygon for inputs: 8" classname="com.rajesh.demo.spock.ExampleSpecification" time="0.001"/>
+  <testcase name="create polygon for inputs: #sides" classname="com.rajesh.demo.spock.ExampleSpecification" time="0.002"/>
+  <testcase name="use data tables for calculating max [a: 1, b: 3, max: 3, #0]" classname="com.rajesh.demo.spock.ExampleSpecification" time="0.002"/>
+  <testcase name="use data tables for calculating max [a: 7, b: 4, max: 7, #1]" classname="com.rajesh.demo.spock.ExampleSpecification" time="0.0"/>
+  <testcase name="use data tables for calculating max [a: 0, b: 0, max: 0, #2]" classname="com.rajesh.demo.spock.ExampleSpecification" time="0.0"/>
+  <testcase name="use data tables for calculating max" classname="com.rajesh.demo.spock.ExampleSpecification" time="0.004"/>
+  <testcase name="mock a concrete class" classname="com.rajesh.demo.spock.ExampleSpecification" time="0.209"/>
+  <testcase name="create a stub" classname="com.rajesh.demo.spock.ExampleSpecification" time="0.016"/>
+  <testcase name="use a helper method" classname="com.rajesh.demo.spock.ExampleSpecification" time="0.002"/>
+  <testcase name="use a with " classname="com.rajesh.demo.spock.ExampleSpecification" time="0.01"/>
+  <testcase name="use a 'verifyAll' " classname="com.rajesh.demo.spock.ExampleSpecification" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
