@@ -9,7 +9,7 @@ class ExampleSpecification extends Specification {
     private Polygon polygon = new Polygon(5)
 
     void setupSpec(){
-        //setup code that needs to run once at the start
+        //setup code that needs to run once at the start2
     }
 
     void setup() {
